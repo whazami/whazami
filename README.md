@@ -234,4 +234,4 @@
       </a>
     </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=whazami&show_icons=true&locale=en&layout=compact" alt="whazami" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=whazami&show_icons=true&locale=en&layout=compact" alt="whazami" /></p>
