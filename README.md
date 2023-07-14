@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **Assembly**
 
+- ⭐ My best projects are [CatPong](https://github.com/whazami/catpong), [Asteroids](https://github.com/whazami/Asteroids) and [miniRT](https://github.com/whazami/miniRT)
+
 - 📫 You can reach me at **wl.hazami@gmail.com**
 
 <p align="left">
