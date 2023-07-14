@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Waël Hazami</h1>
 <h3 align="center">A passionate student developer from France 👨‍💻</h3>
 
-- 🔭 I’m currently working on [ft_transcendence](https://github.com/CatOrganisation/ft_transcendence) at [42Paris](https://42.fr/en/homepage/)
+- 🔭 I’m currently working on libasm at [42Seoul](https://42seoul.kr/en/seoul42/default.html)
 
-- 🌱 I’m currently learning **SvelteJS**
+- 🌱 I’m currently learning **Assembly**
 
 - 📫 You can reach me at **wl.hazami@gmail.com**
 
@@ -84,10 +84,25 @@
           height="40"
         />
       </a>
+      <a href="https://svelte.dev/" target="_blank" rel="noreferrer">
+        <img
+          src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1200px-Svelte_Logo.svg.png"
+          alt="svelte"
+          height="40"
+        />
+      </a>
       <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
           alt="bootstrap"
+          width="40"
+          height="40"
+        />
+      </a>
+      <a href="https://threejs.org/" target="_blank" rel="noreferrer">
+        <img
+          src="https://global.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png"
+          alt="threejs"
           width="40"
           height="40"
         />
