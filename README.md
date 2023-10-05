@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Waël Hazami</h1>
-<h3 align="center">A passionate student developer from France 👨‍💻</h3>
+<h3 align="center">A passionate French student developer 👨‍💻</h3>
 
-- 🔭 I’m currently working on libasm at [42Seoul](https://42seoul.kr/en/seoul42/default.html)
+- 🔭 I’m currently working on *dr-quine* at [42Seoul](https://42seoul.kr/en/seoul42/default.html)
 
-- 🌱 I’m currently learning **Assembly**
+- 🌱 I’m currently learning **Cybersecurity**
 
 - ⭐ My best projects are [CatPong](https://github.com/whazami/catpong), [Asteroids](https://github.com/whazami/Asteroids) and [miniRT](https://github.com/whazami/miniRT)
 
@@ -193,6 +193,14 @@
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
           alt="csharp"
+          width="40"
+          height="40"
+        />
+      </a>
+      <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="noreferrer">
+        <img
+          src="https://cdn.hackr.io/uploads/topics_svg/1515163329FBBk5SGRAt.svg"
+          alt="assembly"
           width="40"
           height="40"
         />
