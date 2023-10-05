@@ -1,6 +1,15 @@
 <h1 align="center">Hi 👋, I'm Waël Hazami</h1>
 <h3 align="center">A passionate French student developer 👨‍💻</h3>
 
+<div align="center">
+      <a href="https://www.linkedin.com/in/wael-hazami/" target="_blank" rel="noreferrer">
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" />
+      </a>
+      <a href="https://www.waelhazami.com/" target="_blank" rel="noreferrer">
+            <img src="https://img.shields.io/badge/Portfolio-black?logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIj8+DQo8c3ZnIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiIgd2lkdGg9IjUxMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4NCgk8dGl0bGUgLz4NCgk8cGF0aA0KCQlmaWxsPSIjZmZmZmZmIg0KCQlkPSJNNDc3LjY0LDM4LjI2YTQuNzUsNC43NSwwLDAsMC0zLjU1LTMuNjZjLTU4LjU3LTE0LjMyLTE5My45LDM2LjcxLTI2Ny4yMiwxMTBhMzE3LDMxNywwLDAsMC0zNS42Myw0Mi4xYy0yMi42MS0yLTQ1LjIyLS4zMy02NC40OSw4LjA3QzUyLjM4LDIxOC43LDM2LjU1LDI4MS4xNCwzMi4xNCwzMDhhOS42NCw5LjY0LDAsMCwwLDEwLjU1LDExLjJMMTMwLDMwOS41N2ExOTQuMSwxOTQuMSwwLDAsMCwxLjE5LDE5LjcsMTkuNTMsMTkuNTMsMCwwLDAsNS43LDEyTDE3MC43LDM3NWExOS41OSwxOS41OSwwLDAsMCwxMiw1LjcsMTkzLjUzLDE5My41MywwLDAsMCwxOS41OSwxLjE5bC05LjU4LDg3LjJhOS42NSw5LjY1LDAsMCwwLDExLjIsMTAuNTVjMjYuODEtNC4zLDg5LjM2LTIwLjEzLDExMy4xNS03NC41LDguNC0xOS4yNywxMC4xMi00MS43Nyw4LjE4LTY0LjI3YTMxNy42NiwzMTcuNjYsMCwwLDAsNDIuMjEtMzUuNjRDNDQxLDIzMi4wNSw0OTEuNzQsOTkuNzQsNDc3LjY0LDM4LjI2Wk0yOTQuMDcsMjE3LjkzYTQ4LDQ4LDAsMSwxLDY3Ljg2LDBBNDcuOTUsNDcuOTUsMCwwLDEsMjk0LjA3LDIxNy45M1oiIC8+DQoJPHBhdGgNCgkJZmlsbD0iI2ZmZmZmZiINCgkJZD0iTTE2OC40LDM5OS40M2MtNS40OCw1LjQ5LTE0LjI3LDcuNjMtMjQuODUsOS40Ni0yMy43Nyw0LjA1LTQ0Ljc2LTE2LjQ5LTQwLjQ5LTQwLjUyLDEuNjMtOS4xMSw2LjQ1LTIxLjg4LDkuNDUtMjQuODhhNC4zNyw0LjM3LDAsMCwwLTMuNjUtNy40NSw2MCw2MCwwLDAsMC0zNS4xMywxNy4xMkM1MC4yMiwzNzYuNjksNDgsNDY0LDQ4LDQ2NHM4Ny4zNi0yLjIyLDExMC44Ny0yNS43NUE1OS42OSw1OS42OSwwLDAsMCwxNzYsNDAzLjA5QzE3Ni4zNywzOTguOTEsMTcxLjI4LDM5Ni40MiwxNjguNCwzOTkuNDNaIiAvPg0KPC9zdmc+" alt="Portfolio" />
+      </a>
+</div>
+
 - 🔭 I’m currently working on *dr-quine* at [42Seoul](https://42seoul.kr/en/seoul42/default.html)
 
 - 🌱 I’m currently learning **Cybersecurity**
@@ -8,9 +17,6 @@
 - ⭐ My best projects are [CatPong](https://github.com/whazami/catpong), [Asteroids](https://github.com/whazami/Asteroids) and [miniRT](https://github.com/whazami/miniRT)
 
 - 📫 You can reach me at **wl.hazami@gmail.com**
-
-<p align="left">
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -97,6 +103,14 @@
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
           alt="bootstrap"
+          width="40"
+          height="40"
+        />
+      </a>
+      <a href="https://threlte.xyz/" target="_blank" rel="noreferrer">
+        <img
+          src="https://threlte.xyz/_astro/threlte-logo-only.a1f25c08_Y200W.webp"
+          alt="threlte"
           width="40"
           height="40"
         />
