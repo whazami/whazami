@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Waël Hazami</h1>
-<h3 align="center">A passionate French student developer 👨‍💻</h3>
+<h3 align="center">A passionate French student and freelance developer 👨‍💻</h3>
 
 <div align="center">
       <a href="https://www.linkedin.com/in/wael-hazami/" target="_blank" rel="noreferrer">
