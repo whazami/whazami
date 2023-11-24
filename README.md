@@ -273,4 +273,9 @@
       </a>
     </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats-whazami.vercel.app/api/top-langs?username=whazami&show_icons=true&locale=en&layout=compact" alt="whazami" /></p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-whazami.vercel.app/api/top-langs?username=whazami&locale=en&layout=compact&theme=radical">
+    <img alt="whazami's GitHub stats" src="https://github-readme-stats-whazami.vercel.app/api/top-langs?username=whazami&locale=en&layout=compact">
+  </picture>
+</div>
