@@ -10,9 +10,9 @@
       </a>
 </div>
 
-- 🔭 I’m currently working on *dr-quine* at [42Seoul](https://42seoul.kr/en/seoul42/default.html)
+- 🔭 I’m currently working on *robotics* in R&D using C++ at [Luxolis](https://luxolis.ai)
 
-- 🌱 I’m currently learning **Cybersecurity**
+- 🌱 I’m currently learning **DevOps & CI/CD**
 
 - ⭐ My best projects are [CatPong](https://github.com/whazami/catpong), [Asteroids](https://github.com/whazami/Asteroids) and [miniRT](https://github.com/whazami/miniRT)
 
