@@ -10,7 +10,7 @@
       </a>
 </div>
 
-- 🔭 I’m currently working on *robotics* in R&D using C++ at [Luxolis](https://luxolis.ai)
+- 🔭 I’m currently working as a Software Engineer at [Luxolis](https://luxolis.ai)
 
 - 🌱 I’m currently learning **DevOps & CI/CD**
 
