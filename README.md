@@ -109,7 +109,7 @@
       </a>
       <a href="https://threlte.xyz/" target="_blank" rel="noreferrer">
         <img
-          src="https://threlte.xyz/_astro/threlte-logo-only.a1f25c08_Y200W.webp"
+          src="https://threlte.xyz/_astro/threlte-logo-only.y-jizbo__Z1eWuA0.webp"
           alt="threlte"
           width="40"
           height="40"
@@ -125,7 +125,7 @@
       </a>
       <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
         <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"
+          src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg"
           alt="nestjs"
           width="40"
           height="40"
