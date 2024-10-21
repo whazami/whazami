@@ -10,9 +10,9 @@
       </a>
 </div>
 
-- 🔭 I’m currently working as a Software Engineer at [Luxolis](https://luxolis.ai)
+- 🔭 I’m currently studying at [42Paris](https://42.fr/en/homepage/)
 
-- 🌱 I’m currently learning **DevOps & CI/CD**
+- 🌱 I’m currently learning **Cybersecurity**
 
 - ⭐ My best projects are [CatPong](https://github.com/whazami/catpong), [Asteroids](https://github.com/whazami/Asteroids) and [miniRT](https://github.com/whazami/miniRT)
 
